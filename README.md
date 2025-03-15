@@ -1,3 +1,6 @@
+## Changes made to the forked repository
+change `livox_ros_driver` to `livox_ros_driver2` to support mid-360
+
 ## Related Works and Extended Application
 
 **SLAM:**
